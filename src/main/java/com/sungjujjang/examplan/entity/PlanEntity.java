@@ -25,7 +25,7 @@ public class PlanEntity {
         this.planday = planday;
         this.name = name;
         this.calid = calid;
-    } //h2
+    }
 
     public Long getId() { return id; }
 

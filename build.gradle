@@ -8,7 +8,6 @@ group = 'com.sungjujjang'
 version = '0.0.1-SNAPSHOT'
 description = 'sjjangs examplan'
 
-//h2
 java {
 	toolchain {
 		languageVersion = JavaLanguageVersion.of(17)
